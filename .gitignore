@@ -1,0 +1,6 @@
+/.ackrc
+/.build/
+!/.gitignore
+/.latest
+/Test-Deep-UUID-*/
+/Test-Deep-UUID-*.tar.gz
